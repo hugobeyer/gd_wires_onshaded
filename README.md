@@ -1,5 +1,7 @@
 # GD Wires OnShaded
 
+![preview](preview.png)
+
 A lightweight editor plugin that adds a **shaded wireframe overlay** to the 3D viewport. See your mesh topology without losing shading.
 
 ![Godot 4.x](https://img.shields.io/badge/Godot-4.x-blue)
